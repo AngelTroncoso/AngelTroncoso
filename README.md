@@ -6,7 +6,10 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/angelgabriel1439) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angeltroncoso) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/angeltroncoso) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@angeltroncoso) 
 
 
-[Envíame un correo](mailto:angeltroncoso2019@outlook.es)
+<a href="mailto:angeltroncoso2019@outlook.es" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #0078D4; text-decoration: none; border-radius: 5px; text-align: center; font-family: Arial, sans-serif;">
+  Envíame un correo
+</a>
+
 
 
 
