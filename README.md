@@ -25,11 +25,11 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=angeltroncoso&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ###
----
+
 [![](https://visitcount.itsvg.in/api?id=angeltroncoso&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 ###
-<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ###
