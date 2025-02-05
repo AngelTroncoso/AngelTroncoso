@@ -51,8 +51,8 @@
     <th width="50%">⚙️ Machine Learning 2024</th>
   </tr>
   <tr>
-    <td align="center"> <img src="1.webp" width="250"></td>
-    <td align="center"> <img src="2.webp" width="250"></td>
+    <td align="center"> <img src="3.webp" width="250"></td>
+    <td align="center"> <img src="4.webp" width="250"></td>
   </tr>
   <tr>
     <td align="justify">
