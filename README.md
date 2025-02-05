@@ -8,22 +8,33 @@
 # 📊 Proyectos de Ciencia de Datos. 
 <table>
   <tr>
-    <th style="width: 50%;">🛍️ INVERSIÓN EN EL SPY</th>
-    <th style="width: 50%;">🛍️ ANÁLISIS DE RIESGO CREDITICIO</th>
+    <th width="50%">🛍️ INVERSIÓN EN EL SPY</th>
+    <th width="50%">🛍️ Análisis de Riesgo Crediticio</th>
   </tr>
   <tr>
-    <td align="center"><img src="R.jpeg" width="300"></td>
-    <td align="center"><img src="OIP.jpeg" width="300"></td>
+    <td align="center"><img src="R.jpeg" width="250"></td>
+    <td align="center"><img src="OIP.jpeg" width="250"></td>
   </tr>
   <tr>
-    <td>Las pensiones públicas suelen ser bajas e insuficientes para cubrir todos los gastos de necesidades básicas, como vivienda, alimentación y atención médica. La falta de fondos también puede limitar la capacidad de disfrutar de actividades recreativas y de mantener un estilo de vida activo y saludable</td>
-    <td>El Banco IPB es una entidad financiera que está ofreciendo creditos para empresas a una tasa de interes muy atractiva como parte de su politica financiera y el contexto economico que se esta dando en Argentina. En un principio, centra su oferta de credito en los sectores que potencialmente tienen el mayor salto en el desarrollo y expansión actualmente, como son el sector hidrocarburífero, agricola, minero, de ciencias del conocimiento, etc.</td>
+    <td align="justify">
+      Las pensiones públicas suelen ser bajas e insuficientes para cubrir todos los gastos de necesidades básicas, 
+      como vivienda, alimentación y atención médica. La falta de fondos también puede limitar la capacidad de disfrutar 
+      de actividades recreativas y de mantener un estilo de vida activo y saludable.
+    </td>
+    <td align="justify">
+      El Banco IPB es una entidad financiera que está ofreciendo créditos para empresas a una tasa de interés 
+      muy atractiva como parte de su política financiera y el contexto económico que se está dando en Argentina. 
+      En un principio, centra su oferta de crédito en los sectores que potencialmente tienen el mayor salto en 
+      el desarrollo y expansión actualmente, como son el sector hidrocarburífero, agrícola, minero, 
+      de ciencias del conocimiento, etc.
+    </td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/No-Country-simulation/s17-18-m-data-bi">🔗 Ver Código</a></td>
     <td align="center"><a href="https://github.com/No-Country-simulation/c19-108-m-data-bi">🔗 Ver Código</a></td>
   </tr>
 </table>
+
 
 
 
