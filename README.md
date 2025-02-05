@@ -30,8 +30,16 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/No-Country-simulation/s17-18-m-data-bi">🔗 Ver Código</a></td>
-    <td align="center"><a href="https://github.com/No-Country-simulation/c19-108-m-data-bi">🔗 Ver Código</a></td>
+ <td align="center">
+      <a href="https://github.com/No-Country-simulation/s17-18-m-data-bi">
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-3DDC84?logo=github&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/No-Country-simulation/c19-108-m-data-bi">
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-0A84FF?logo=github&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
   </tr>
 </table>
 
