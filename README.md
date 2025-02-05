@@ -5,13 +5,26 @@
 ## 🌐 Social Media:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/angeltroncoso) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/angelgabriel1439)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angeltroncoso) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@angeltroncoso)  [![Outlook](https://img.shields.io/badge/Outlook-angeltroncoso2019%40outlook.es-blue?logo=microsoft-outlook&logoColor=white)](mailto:angeltroncoso2019@outlook.es)
 
-# 📊 Proyectos de Ciencia de Datos  
+# 📊 Proyectos de Ciencia de Datos. 
+<table>
+  <tr>
+    <th style="width: 50%;">🛍️ INVERSIÓN EN EL SPY</th>
+    <th style="width: 50%;">🛍️ ANÁLISIS DE RIESGO CREDITICIO</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="R.jpeg" width="300"></td>
+    <td align="center"><img src="OIP.jpeg" width="300"></td>
+  </tr>
+  <tr>
+    <td>Las pensiones públicas suelen ser bajas e insuficientes para cubrir todos los gastos de necesidades básicas, como vivienda, alimentación y atención médica. La falta de fondos también puede limitar la capacidad de disfrutar de actividades recreativas y de mantener un estilo de vida activo y saludable</td>
+    <td>El Banco IPB es una entidad financiera que está ofreciendo creditos para empresas a una tasa de interes muy atractiva como parte de su politica financiera y el contexto economico que se esta dando en Argentina. En un principio, centra su oferta de credito en los sectores que potencialmente tienen el mayor salto en el desarrollo y expansión actualmente, como son el sector hidrocarburífero, agricola, minero, de ciencias del conocimiento, etc.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/No-Country-simulation/s17-18-m-data-bi">🔗 Ver Código</a></td>
+    <td align="center"><a href="https://github.com/No-Country-simulation/c19-108-m-data-bi">🔗 Ver Código</a></td>
+  </tr>
+</table>
 
-| 🛍️ INVERSIÓN EN EL SPY  | 🛍️   Análisis de Riesgo Crediticio  |
-|-----------------------------------------|------------------------------|
-| ![Predicción de Gastos](proyecto1.jpg) | ![COVID19 Análisis](proyecto2.jpg) |
-| Las pensiones públicas suelen ser bajas e insuficientes para cubrir todos los gastos de necesidades básicas, como vivienda, alimentación y atención médica. La falta de fondos también puede limitar la capacidad de disfrutar de actividades recreativas y de mantener un estilo de vida activo y saludable. | El Banco IPB es una entidad financiera que está ofreciendo creditos para empresas a una tasa de interes muy atractiva como parte de su politica financiera y el contexto economico que se esta dando en Argentina. En un principio, centra su oferta de credito en los sectores que potencialmente tienen el mayor salto en el desarrollo y expansión actualmente, como son el sector hidrocarburífero, agricola, minero, de ciencias del conocimiento, etc. |
-| 🔗 **[Ver Código](https://github.com/No-Country-simulation/s17-18-m-data-bi)** | 🔗 **[Ver Código](https://github.com/No-Country-simulation/c19-108-m-data-bi)** |
 
 
 
