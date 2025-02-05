@@ -12,8 +12,8 @@
     <th width="50%">🛍️ Análisis de Riesgo Crediticio</th>
   </tr>
   <tr>
-    <td align="center"><img src="R.jpeg" width="250"></td>
-    <td align="center"><img src="OIP.jpeg" width="250"></td>
+    <td align="center"><img src="1.webp" width="250"></td>
+    <td align="center"><img src="2.webp" width="250"></td>
   </tr>
   <tr>
     <td align="justify">
