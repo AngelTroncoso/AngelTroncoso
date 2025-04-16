@@ -29,7 +29,7 @@
   <tr>
  <td align="center">
       <a href="https://github.com/AngelTroncoso/Alura_Store_Latam">
-        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-3DDC84?logo=github&logoColor=white&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-45dc3d?logo=github&logoColor=white&style=for-the-badge" />
       </a>
     </td>
     <td align="center">
