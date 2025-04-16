@@ -6,6 +6,42 @@
 ## 🌐 Social Media:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/angeltroncoso) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/angelgabriel1439)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angeltroncoso) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@angeltroncoso)  [![Outlook](https://img.shields.io/badge/Outlook-angeltroncoso2019%40outlook.es-blue?logo=microsoft-outlook&logoColor=white)](mailto:angeltroncoso2019@outlook.es)
 
+# 📊 Proyectos de Analisis de Datos. 
+<table>
+  <tr>
+    <th width="50%">📈 Recomendación de Viabilidad de Empresas </th>
+    <th width="50%">🏦 Proximo Proyecto de Analista de Datos</th>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://image.lexica.art/full_webp/0e318e32-b595-4ead-a7d7-378b69abf720" width="250"></td>
+    <td align="center"> <img src="https://image.lexica.art/full_webp/b58ae9bf-d612-496f-b3f3-c0fe799169a0" width="250"></td>
+  </tr>
+  <tr>
+    <td align="justify">
+      💰al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. 
+      Para ello,      analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. 
+      El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
+    </td>
+    <td align="justify">
+      🏦Proximo proyecto de cursera de analisis de datos .
+    </td>
+  </tr>
+  <tr>
+ <td align="center">
+      <a href="https://github.com/AngelTroncoso/Alura_Store_Latam">
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-3DDC84?logo=github&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/No-Country-simulation/c19-108-m-data-bi">
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-d43ddc?logo=github&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 # 📊 Proyectos de Ciencia de Datos. 
 <table>
   <tr>
@@ -33,7 +69,7 @@
   <tr>
  <td align="center">
       <a href="https://github.com/No-Country-simulation/s17-18-m-data-bi">
-        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-3DDC84?logo=github&logoColor=white&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-843ddc?logo=github&logoColor=white&style=for-the-badge" />
       </a>
     </td>
     <td align="center">
