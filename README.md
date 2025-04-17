@@ -10,7 +10,7 @@
 <table>
   <tr>
     <th width="50%">📈 Recomendación de Viabilidad Empresarial </th>
-    <th width="50%">🏦 Estructura de Analisis de Proyectos con Google</th>
+    <th width="50%"> 🚀Estructura de Analisis de Proyectos con Google</th>
   </tr>
   <tr>
     <td align="center"> <img src="https://image.lexica.art/full_webp/0e318e32-b595-4ead-a7d7-378b69abf720" width="250"></td>
@@ -23,7 +23,7 @@
       El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
     </td>
     <td align="justify">
-      🏦Estructura de plantillas y bases de estudio para analizar proyectos con la metodologia, Preguntar, Preparar,Explorar,
+      💻Estructura de plantillas y bases de estudio para analizar proyectos con la metodologia, Preguntar, Preparar,Explorar,
       Modelar, Aplicar, Actuar y Evaluar. incorporando herramientas adicionales en cada uno de estos pasos.
     </td>
   </tr>
