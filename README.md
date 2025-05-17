@@ -46,7 +46,7 @@
 # 📊 Proyectos de Ciencia de Datos. 
 <table>
   <tr>
-    <th width="50%">📈 INVERSIÓN EN EL SPY</th>
+    <th width="50%">📈 Inversión en el SPY</th>
     <th width="50%">🏦 Análisis de Riesgo Crediticio</th>
   </tr>
   <tr>
