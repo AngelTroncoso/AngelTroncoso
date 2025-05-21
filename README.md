@@ -10,7 +10,7 @@
 <table>
   <tr>
     <th width="50%">📈 Recomendación de Viabilidad Empresarial </th>
-    <th width="50%"> 🚀Estructura de Analisis de Proyectos con Google</th>
+    <th width="50%"> 🚀 Analisis de Pagos para un  Condomínio</th>
   </tr>
   <tr>
     <td align="center"> <img src="https://image.lexica.art/full_webp/0e318e32-b595-4ead-a7d7-378b69abf720" width="250"></td>
@@ -34,7 +34,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AngelTroncoso/Analisis_de_Datos_Google">
+      <a href="https://github.com/AngelTroncoso/administracion_de_condominios">
         <img src="https://img.shields.io/badge/GitHub-Ver%20Código-d43ddc?logo=github&logoColor=white&style=for-the-badge" />
       </a>
     </td>
