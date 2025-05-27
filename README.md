@@ -13,8 +13,8 @@
     <th width="50%"> 🚀 Analisis de Pagos para un  Condomínio</th>
   </tr>
   <tr>
-    <td align="center"> <img src="https://image.lexica.art/full_webp/0e318e32-b595-4ead-a7d7-378b69abf720" width="250"></td>
-    <td align="center"> <img src="https://image.lexica.art/full_webp/b58ae9bf-d612-496f-b3f3-c0fe799169a0" width="250"></td>
+    <td align="center"> <img src="https://image.lexica.art/full_webp/1926a41c-08d4-4ba0-bb3a-0acf57193b21" width="250"></td>
+    <td align="center"> <img src="https://image.lexica.art/full_webp/7395ff37-5d6a-4795-be80-1313e9441494" width="250"></td>
   </tr>
   <tr>
     <td align="justify">
@@ -50,7 +50,7 @@
     <th width="50%">🏦 Análisis de Riesgo Crediticio</th>
   </tr>
   <tr>
-    <td align="center"> <img src="1.webp" width="250"></td>
+    <td align="center"> <img src="https://image.lexica.art/full_webp/08caa030-5b3d-43e4-b08f-1f1715336e28" width="250"></td>
     <td align="center"> <img src="2.webp" width="250"></td>
   </tr>
   <tr>
