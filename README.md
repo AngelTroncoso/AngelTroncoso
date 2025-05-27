@@ -4,7 +4,25 @@
 
 
 ## 🌐 Social Media:
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/angeltroncoso) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/angelgabriel1439)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angeltroncoso) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@angeltroncoso)  [![Outlook](https://img.shields.io/badge/Outlook-angeltroncoso2019%40outlook.es-blue?logo=microsoft-outlook&logoColor=white)](mailto:angeltroncoso2019@outlook.es)
+
+<p>
+  <a href="https://linkedin.com/in/angeltroncoso">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://angeltroncoso.github.io/business_analytics_pro/">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" height="40"/>
+  </a>
+  <a href="mailto:angeltroncoso2019@outlook.es">
+    <img src="https://github.com/user-attachments/assets/cdb161f0-a413-405a-8bf1-f756a9b36d00" alt="Outlook Email" height="40"/>
+  </a>
+  <a href="https://discord.gg/angelgabriel1439">
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" height="40"/>
+  </a>
+</p>
+
+---
+
+
 
 # 📊 Proyectos de Analisis de Datos. 
 <table>
