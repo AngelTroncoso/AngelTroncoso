@@ -43,7 +43,7 @@
 
 
 
-# 📊 Proyectos de Ciencia de Datos. 
+# 📈 Proyectos de Ciencia de Datos. 
 <table>
   <tr>
     <th width="50%">📈 Inversión en el SPY</th>
@@ -82,7 +82,7 @@
 </table>
 
 
-# 📊 Proyectos de Machine Learning. 
+#  🛰️ Proyectos de Machine Learning. 
 
 
 <table>
@@ -115,6 +115,8 @@
     </td>
   </tr>
 </table>
+
+#  🚀 Proyectos de Redes Neuronales. 
 <table>
   <tr>
     <th width="50%">📡  Machine Learning 2024 </th>
