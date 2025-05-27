@@ -116,29 +116,29 @@
 
 <table>
   <tr>
-    <th width="50%">📡 Hotel Facilito </th>
-    <th width="50%">⚙️ Scoring de Callcenter </th>
+    <th width="50%">☎️ Scoring de Callcenter </th>
+    <th width="50%">🏨 Hotel Facilito </th>
   </tr>
   <tr>
-    <td align="center"> <img src="3.webp" width="250"></td>
-    <td align="center"> <img src="4.webp" width="250"></td>
+    <td align="center"> <img src="06.webp" width="250"></td>
+    <td align="center"> <img src="07.webp" width="250"></td>
   </tr>
   <tr>
     <td align="justify">
-    🎯 Repositorio de Datos y Entrenamiento: Contiene notebooks para el análisis exploratorio, ingeniería de variables y entrenamiento del modelo de machine learning que predice la probabilidad de reinversión de clientes en depósitos a plazo.
+    🎯 Análisis exploratorio, ingeniería de variables y entrenamiento del modelo de machine learning que predice la probabilidad de reinversión de clientes en depósitos a plazos generando scores, y construir rankings para campañas comerciales.
     </td>
     <td align="justify">
-    🧠 Repositorio de Scoring y Producción: Incluye scripts para aplicar el modelo entrenado a nuevos datos de clientes, generar scores, y construir rankings para campañas comerciales.
+    🧠 Modelo de Machine Learning que predice si una reserva de hotel será cancelada, utilizando datos históricos y Scikit-Learn en Google Colab.
     </td>
   </tr>
   <tr>
  <td align="center">
-      <a href="https://github.com/AngelTroncoso/Hotel_Facilito">
+      <a href="https://github.com/AngelTroncoso/Depocitos_lead_scoring">
         <img src="https://img.shields.io/badge/GitHub-Ver%20Código-FF69B4?logo=github&logoColor=white&style=for-the-badge" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AngelTroncoso/Depocitos_lead_scoring">
+      <a href="https://github.com/AngelTroncoso/Hotel_Facilito">
         <img src="https://img.shields.io/badge/GitHub-Ver%20Código-FFD700?logo=github&logoColor=white&style=for-the-badge" />
       </a>
     </td>
