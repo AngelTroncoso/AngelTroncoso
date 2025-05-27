@@ -135,12 +135,12 @@
   <tr>
  <td align="center">
       <a href="https://github.com/AngelTroncoso/machine-learning-2024">
-        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-FF69B4?logo=github&logoColor=white&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-ff1744?logo=github&logoColor=white&style=for-the-badge" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/AngelTroncoso/Machine-Learning-2025">
-        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-FFD700?logo=github&logoColor=white&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-ff6d00?logo=github&logoColor=white&style=for-the-badge" />
       </a>
     </td>
   </tr>
