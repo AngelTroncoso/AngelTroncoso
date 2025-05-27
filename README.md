@@ -100,7 +100,7 @@
 </table>
 
 
-#  🛰️ Proyectos de Machine Learning. 
+#  🤖 Proyectos de Machine Learning. 
 
 
 <table>
