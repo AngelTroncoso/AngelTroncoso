@@ -83,36 +83,7 @@
 
 
 # 📊 Proyectos de Machine Learning. 
-<table>
-  <tr>
-    <th width="50%">📡  Machine Learning 2024 </th>
-    <th width="50%">⚙️ Machine Learning 2024</th>
-  </tr>
-  <tr>
-    <td align="center"> <img src="3.webp" width="250"></td>
-    <td align="center"> <img src="4.webp" width="250"></td>
-  </tr>
-  <tr>
-    <td align="justify">
-    🎯 El análisis de riesgo crediticio con Machine Learning permite evaluar la solvencia de los clientes mediante modelos predictivos que analizan historiales financieros y patrones de comportamiento. Esto mejora la precisión en la toma de decisiones, reduciendo riesgos y optimizando la aprobación de créditos.
-    </td>
-    <td align="justify">
-    🧠 El uso de múltiples modelos de Machine Learning en la experimentación permite comparar su desempeño y seleccionar el más eficiente para una tarea específica. Esta estrategia ayuda a mejorar la precisión, minimizar sesgos y optimizar la toma de decisiones basada en datos..
-    </td>
-  </tr>
-  <tr>
- <td align="center">
-      <a href="https://github.com/AngelTroncoso/machine-learning-2024">
-        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-FF69B4?logo=github&logoColor=white&style=for-the-badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AngelTroncoso/Machine-Learning-2025">
-        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-FFD700?logo=github&logoColor=white&style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <table>
   <tr>
@@ -144,7 +115,36 @@
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <th width="50%">📡  Machine Learning 2024 </th>
+    <th width="50%">⚙️ Machine Learning 2024</th>
+  </tr>
+  <tr>
+    <td align="center"> <img src="3.webp" width="250"></td>
+    <td align="center"> <img src="4.webp" width="250"></td>
+  </tr>
+  <tr>
+    <td align="justify">
+    🎯 El análisis de riesgo crediticio con Machine Learning permite evaluar la solvencia de los clientes mediante modelos predictivos que analizan historiales financieros y patrones de comportamiento. Esto mejora la precisión en la toma de decisiones, reduciendo riesgos y optimizando la aprobación de créditos.
+    </td>
+    <td align="justify">
+    🧠 El uso de múltiples modelos de Machine Learning en la experimentación permite comparar su desempeño y seleccionar el más eficiente para una tarea específica. Esta estrategia ayuda a mejorar la precisión, minimizar sesgos y optimizar la toma de decisiones basada en datos..
+    </td>
+  </tr>
+  <tr>
+ <td align="center">
+      <a href="https://github.com/AngelTroncoso/machine-learning-2024">
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-FF69B4?logo=github&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AngelTroncoso/Machine-Learning-2025">
+        <img src="https://img.shields.io/badge/GitHub-Ver%20Código-FFD700?logo=github&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 # 💻 Technology Tools:
